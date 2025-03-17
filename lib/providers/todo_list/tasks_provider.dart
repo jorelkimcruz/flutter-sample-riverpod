@@ -1,6 +1,6 @@
 import 'package:flutter_hooks_riverpod_app/enums/filter_type_enum.dart';
 import 'package:flutter_hooks_riverpod_app/models/task_model.dart';
-import 'package:flutter_hooks_riverpod_app/providers/list_filter_type_provider.dart';
+import 'package:flutter_hooks_riverpod_app/providers/todo_list/list_filter_type_provider.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:riverpod/riverpod.dart';
 part 'tasks_provider.g.dart';
